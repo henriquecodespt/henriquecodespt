@@ -79,7 +79,7 @@ Learning, improving, creating.
 <br/>
 <br/>
 
-### 📊 Statistics
+### 📊 Estatísticas
 
 <p>
   <img 
@@ -87,14 +87,14 @@ Learning, improving, creating.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=henriquecodespt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=henriquecodespt_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
-      alt="Top Languages" 
+      alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecodespt&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecodespt=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
