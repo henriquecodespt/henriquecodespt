@@ -81,4 +81,4 @@ Learning, improving, creating.
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecodespt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquecodespt&show_icons=true&theme=tokyonight&include_all_commits-true&locale-pt-br)
