@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-My Name Is Esdras Hneirque matos, I am 23 years old and I am from São Paulo.. I finished high school in Zilda Graça Martins de oliveira in São Paulo Guarulhos, Front-end Developer in progress 🚀
+My Name Is Esdras Henrique matos, I am 23 years old and I am from São Paulo.. I finished high school in Zilda Graça Martins de oliveira in São Paulo Guarulhos, Front-end Developer in progress 🚀
 Building projects daily | HTML • CSS • JavaScript
 Learning, improving, creating.
 
