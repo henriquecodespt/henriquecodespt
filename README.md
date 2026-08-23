@@ -2,9 +2,29 @@
 
 **`Desenvolvedor FullStack`**
 
-My Name Is Esdras Henrique matos, I am 23 years old and I am from São Paulo.. I finished high school in Zilda Graça Martins de oliveira in São Paulo Guarulhos, Front-end Developer in progress 🚀
-Building projects daily | HTML • CSS • JavaScript
-Learning, improving, creating.
+# 👨‍⚕️ Hi, I'm Esdras Henrique!
+
+🎓 **Nursing student** at **Stella Maris School of Nursing**
+💻 **Programming student** at **Coder**
+🏥 Passionate about **Healthcare, Technology and Innovation**
+🚀 Currently building my journey at the intersection of **Nursing + Technology**
+
+At 24, I'm focused on developing new skills, building projects, and exploring how technology can create a positive impact on healthcare.
+
+### 🧠 Currently learning
+
+* JavaScript
+* Python
+* Web Development
+* Technology & Innovation in Healthcare
+
+### 🚀 My goal
+
+To combine my background in healthcare with technology and build innovative solutions that can make a real difference.
+
+📍 Brazil 🇧🇷
+💻 Always learning. Always building. 🚀
+
 
 <p align="left">
     <a href="https://github.com/henriquecodespt?tab=repositories&sort=stargazers">
